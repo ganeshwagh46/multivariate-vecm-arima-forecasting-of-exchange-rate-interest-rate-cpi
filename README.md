@@ -3,7 +3,7 @@ Multivariate VECM and ARIMA Forecasting of Exchange Rate, Interest Rate & CPI
 👤 Analyst: Ganesh Wagh
 📅 Date: 2025
 
-📌 Executive Summary
+## 📌 Executive Summary
 
 This project applies econometric methods to forecast key macroeconomic indicators — exchange rates, short-term interest rates, and the Consumer Price Index (CPI). By combining Vector Error Correction Models (VECM) with ARIMA models, the analysis compares multivariate and univariate forecasting approaches to identify which method provides more accurate and reliable forecasts.
 
