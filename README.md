@@ -1,7 +1,7 @@
-Multivariate VECM and ARIMA Forecasting of Exchange Rate, Interest Rate & CPI
+# Multivariate VECM and ARIMA Forecasting of Exchange Rate, Interest Rate & CPI
 
-👤 Analyst: Ganesh Wagh
-📅 Date: 2025
+##👤 Analyst: Ganesh Wagh
+📅 Date: feb' 2024
 
 ## 📌 Executive Summary
 
