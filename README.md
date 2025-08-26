@@ -7,7 +7,7 @@ Multivariate VECM and ARIMA Forecasting of Exchange Rate, Interest Rate & CPI
 
 This project applies econometric methods to forecast key macroeconomic indicators — exchange rates, short-term interest rates, and the Consumer Price Index (CPI). By combining Vector Error Correction Models (VECM) with ARIMA models, the analysis compares multivariate and univariate forecasting approaches to identify which method provides more accurate and reliable forecasts.
 
-Key objectives:
+## Key objectives:
 
 Explore long-run relationships between the variables using cointegration analysis.
 
@@ -17,7 +17,7 @@ Benchmark performance against ARIMA-based univariate forecasts.
 
 Evaluate forecast accuracy using statistical metrics and visualization.
 
-📂 Data Overview
+## 📂 Data Overview
 
 Source: Publicly available macroeconomic datasets (e.g., central bank, IMF, FRED).
 
@@ -33,7 +33,7 @@ Period covered: Multiple years (exact period as per dataset).
 
 Transformations: log transformations, differencing for stationarity, and standardization where needed.
 
-🛠 Methodology
+## 🛠 Methodology
 
 Exploratory Data Analysis (EDA)
 
@@ -61,7 +61,7 @@ Accuracy assessed using RMSE, MAE, and MAPE.
 
 Visualization of forecast performance.
 
-📑 Key Findings
+## 📑 Key Findings
 
 Evidence of cointegration between Exchange Rate, Interest Rate, and CPI.
 
@@ -71,7 +71,7 @@ ARIMA performs competitively in short-term forecasting but lacks structural insi
 
 Results highlight the importance of multivariate models in macroeconomic forecasting.
 
-📈 Recommendations
+## 📈 Recommendations
 
 Policymakers and analysts should rely on VECM for medium-to-long-term forecasting where macro linkages matter.
 
